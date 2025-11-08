@@ -10,7 +10,7 @@ const Pricing = () => {
     {
       name: "Starter",
       icon: Zap,
-      price: "₹4,999",
+      price: "₹499",
       period: "/month",
       description: "Perfect for entrepreneurs and small teams getting started",
       features: [
@@ -27,7 +27,7 @@ const Pricing = () => {
     {
       name: "Professional",
       icon: Rocket,
-      price: "₹12,999",
+      price: "₹2,499",
       period: "/month",
       description: "Ideal for growing businesses scaling their sales operations",
       features: [
